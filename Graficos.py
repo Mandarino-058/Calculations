@@ -29,3 +29,5 @@ ax.set_zlabel('Z')
 ax.legend()
 # comment
 plt.show()
+
+#importar todas las librerias antes de usarlo 
